@@ -1,4 +1,4 @@
-# vim_open_ai
+# open_ai.vim
 
 Use to hit open ai models for various common dev tasks
 
